@@ -1,0 +1,16 @@
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\bin\Debug\net5.0\AccessSpecifier1.exe
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\bin\Debug\net5.0\AccessSpecifier1.deps.json
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\bin\Debug\net5.0\AccessSpecifier1.runtimeconfig.json
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\bin\Debug\net5.0\AccessSpecifier1.runtimeconfig.dev.json
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\bin\Debug\net5.0\AccessSpecifier1.dll
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\bin\Debug\net5.0\ref\AccessSpecifier1.dll
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\bin\Debug\net5.0\AccessSpecifier1.pdb
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\obj\Debug\net5.0\AccessSpecifier1.csproj.AssemblyReference.cache
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\obj\Debug\net5.0\AccessSpecifier1.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\obj\Debug\net5.0\AccessSpecifier1.AssemblyInfoInputs.cache
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\obj\Debug\net5.0\AccessSpecifier1.AssemblyInfo.cs
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\obj\Debug\net5.0\AccessSpecifier1.csproj.CoreCompileInputs.cache
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\obj\Debug\net5.0\AccessSpecifier1.dll
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\obj\Debug\net5.0\ref\AccessSpecifier1.dll
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\obj\Debug\net5.0\AccessSpecifier1.pdb
+F:\DOTNET\AccessSpecifier1\AccessSpecifier1\obj\Debug\net5.0\AccessSpecifier1.genruntimeconfig.cache
